@@ -2,100 +2,101 @@
 
 ```bash
 batuhan@security:~$ whoami
-Junior SOC Analyst Candidate
+Batuhan Tekin — Junior SOC Analyst Candidate
 
-batuhan@security:~$ cat interests.txt
-Blue Team Operations
-Threat Hunting
-Incident Response
-Phishing Analysis
-
-batuhan@security:~$ ls certifications/
-
-TryHackMe_PreSecurity
-TryHackMe_SOC_Level_1
-TryHackMe_AI_Security
-TryHackMe_Jr_Penetration_Tester
-LetsDefend
-
-batuhan@security:~$ echo $CURRENT_FOCUS
-
+batuhan@security:~$ cat current_focus.txt
+SIEM Investigation
 Threat Hunting
 Detection Engineering
-SIEM Analysis
+Incident Response
 
 batuhan@security:~$ echo $GOAL
-
 SOC Analyst
 
-batuhan@security:~$ nmap -A Batuhan
-
-Host is up.
-
-PORT     STATE SERVICE
-22/tcp   open  ssh
-80/tcp   open  http
-443/tcp  open  https
-8080/tcp open  soc-operations
-
-Service Detection:
-
-Name: Batuhan Tekin
-Role: Junior SOC Analyst Candidate
-
-Focus Areas:
-- Threat Hunting
-- SIEM Analysis
-- Incident Response
-- Phishing Investigations
-
-Mission:
-Learn. Investigate. Detect. Defend.
-
-Nmap done: 1 host up.
+batuhan@security:~$ status
+Learning. Investigating. Detecting. Improving.
 ```
 
-## Connect
+Junior SOC Analyst candidate focused on blue team operations, SIEM investigations, threat hunting, phishing analysis, detection engineering, and incident response.
 
-📧 Email: [batuhantekinn@hotmail.com](mailto:batuhantekinn@hotmail.com)
 
-💼 LinkedIn: [Batuhan Tekin](https://www.linkedin.com/in/batuhan-tekin-5063283b8/)
+I use this profile to document my hands-on training, investigation process, and the lessons I learn while working through security labs. My current goal is to build the practical skills required for an entry-level SOC Analyst role.
 
-## Skills
 
-* Elastic Security
-* Splunk
-* Linux
-* Wireshark
-* Nmap
-* SIEM Analysis
-* Threat Hunting
-* Incident Response
-* Phishing Analysis
-* Log Analysis
-* Security Monitoring
-* MITRE ATT&CK
-* Network Security
-* Burp Suite
+## Current Focus
+
+
+- SIEM investigation with Splunk and Elastic Security
+- Detection engineering and Sigma rules
+- Incident response workflows
+- Phishing email analysis and IOC enrichment
+- Windows and Active Directory security monitoring
+
 
 ## Featured Projects
 
-* SOC Phishing Case Studies
-* Boogeyman 3 Investigation
-* PortSwigger Web Security Labs
 
-## Currently Pursuing
-
-* CompTIA Security+
-* SOC Level 2
-* TryHackMe Cyber Security 101
+### [SIEM Investigation Case Studies](https://github.com/BatuhanTekin95/SIEM-Investigation-Case-Studies)
+Hands-on investigations covering multi-stage attacks, Active Directory lateral movement, PsExec, RDP, credential access, DCSync, and ransomware activity using Splunk and Elastic Security.
 
 
+### [Detection Engineering](https://github.com/BatuhanTekin95/Detection-Engineering)
+My detection engineering learning path, including detection fundamentals, threat intelligence, Sigma rules, IOC-based hunting, Aurora EDR, and SOAR workflows.
 
 
+### [SOC Phishing Case Studies](https://github.com/BatuhanTekin95/SOC-Phishing-Case-Studies)
+Phishing investigations covering email headers, SPF, DKIM, DMARC, IOC collection, OSINT enrichment, MITRE ATT&CK mapping, and phishing-to-ransomware analysis.
 
 
+### [Incident Response](https://github.com/BatuhanTekin95/Incident-Response)
+An incident response project covering preparation, identification, analysis, containment, eradication, recovery, evidence handling, and lessons learned. This project is currently in progress.
 
 
+### [Firewall Technologies and Security Monitoring](https://github.com/BatuhanTekin95/Firewall-Technologies-and-Security-Monitoring)
+Notes and practical studies on firewall technologies, network traffic filtering, evasion techniques, and firewall telemetry from a SOC analyst perspective.
 
+
+## Tools and Skills
+
+
+- Splunk and SPL
+- Elastic Security and Kibana
+- Sigma
+- Wireshark
+- Burp Suite
+- Linux
+- Windows Event Logs
+- MITRE ATT&CK
+- Threat hunting
+- Incident response
+- Phishing and email analysis
+- Log and network traffic analysis
+
+
+## Training
+
+
+Completed training paths and hands-on labs include:
+
+
+- TryHackMe Pre Security
+- TryHackMe SOC Level 1
+- TryHackMe AI Security
+- TryHackMe Jr Penetration Tester
+- LetsDefend SOC labs
+
+
+Currently working toward:
+
+
+- CompTIA Security+
+- TryHackMe SOC Level 2
+- TryHackMe Cyber Security 101
+
+
+## Contact
+
+
+- [LinkedIn](https://www.linkedin.com/in/batuhan-tekin-5063283b8/)
+- [Email](mailto:batuhantekinn@hotmail.com)
 
