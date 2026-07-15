@@ -2,19 +2,19 @@
 
 ```bash
 batuhan@security:~$ whoami
-Batuhan Tekin — Junior SOC Analyst Candidate
+Batuhan Tekin — Entry-Level SOC Analyst
 
-batuhan@security:~$ cat current_focus.txt
-SIEM Investigation
-Threat Hunting
-Detection Engineering
-Incident Response
+batuhan@security:~$ cat core_skills.txt
+SIEM Investigation | Splunk | Elastic Security
+Threat Hunting | Sigma Rules | MITRE ATT&CK
+Phishing Analysis | Incident Response
+Windows | Active Directory | Sysmon
 
-batuhan@security:~$ echo $GOAL
-SOC Analyst
+batuhan@security:~$ echo $MISSION
+Turn security telemetry into clear and actionable findings.
 
-batuhan@security:~$ status
-Learning. Investigating. Detecting. Improving.
+batuhan@security:~$ ./status
+Investigating. Detecting. Documenting. Improving.
 ```
 
 Junior SOC Analyst candidate focused on blue team operations, SIEM investigations, threat hunting, phishing analysis, detection engineering, and incident response.
