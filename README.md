@@ -84,6 +84,7 @@ Completed training paths and hands-on labs include:
 - TryHackMe AI Security
 - TryHackMe Jr Penetration Tester
 - LetsDefend SOC labs
+- TryHackMe Cyber Security 101
 
 
 Currently working toward:
@@ -91,7 +92,6 @@ Currently working toward:
 
 - CompTIA Security+
 - TryHackMe SOC Level 2
-- TryHackMe Cyber Security 101
 
 
 ## Contact
